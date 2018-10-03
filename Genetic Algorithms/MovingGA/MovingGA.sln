@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingGA.Plugins", "MovingGA.Plugins.csproj", "{715058B9-F507-1802-0377-CE3CFA721701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingGA", "MovingGA.csproj", "{3E97872C-8B03-F682-9350-8B37E5238BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingGA.Editor.Plugins", "MovingGA.Editor.Plugins.csproj", "{941AAA13-7C43-EDA8-30CB-B212862762D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715058B9-F507-1802-0377-CE3CFA721701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715058B9-F507-1802-0377-CE3CFA721701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715058B9-F507-1802-0377-CE3CFA721701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715058B9-F507-1802-0377-CE3CFA721701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E97872C-8B03-F682-9350-8B37E5238BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E97872C-8B03-F682-9350-8B37E5238BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E97872C-8B03-F682-9350-8B37E5238BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E97872C-8B03-F682-9350-8B37E5238BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941AAA13-7C43-EDA8-30CB-B212862762D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941AAA13-7C43-EDA8-30CB-B212862762D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941AAA13-7C43-EDA8-30CB-B212862762D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941AAA13-7C43-EDA8-30CB-B212862762D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
